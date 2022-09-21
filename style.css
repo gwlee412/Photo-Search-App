@@ -26,7 +26,14 @@ img{
         padding-bottom:10px;
         
 }
+#go{
+  margin-bottom:20px;
+  width:15%
 
+}
+#go:hover{
+  cursor:pointer;
+}
 
 
 #search-bar{
@@ -34,7 +41,8 @@ img{
     height:40px;
     border-radius:20px;
     text-align: center;
-    margin-bottom:20px;
+    margin-bottom:10px;
+    
 }
 .mainpage{
     background-color:#FFF8DC;
@@ -131,5 +139,8 @@ h3{
 }
 h5{
   font-family:Arial, Helvetica, sans-serif
+}
+#go{
+  display:none;
 }
 }
